@@ -77,3 +77,5 @@ Entry point for the game.
 - `main(String[] args)` → runs the game loop with 5 chances.  
 
 ## Demo
+
+![Screen Recording 2025-09-16 at 21 50 36](https://github.com/user-attachments/assets/5513f2d3-fda2-4770-93b4-e2b4012a8745)
